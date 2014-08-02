@@ -10,7 +10,7 @@
     "@id": "https://rawgithub.com/enspiral-dev-academy/concepts/master/angularjs.json",
     "@type": "Concept",
     "name": "AngularJS",
-    "summary": "AngularJS is a framework for client-side web apps."
-    "url": "https://angularjs.org/",
+    "summary": "AngularJS is a framework for client-side web apps.",
+    "url": "https://angularjs.org/"
   }]
 }
